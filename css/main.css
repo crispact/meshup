@@ -362,6 +362,11 @@ div.menu_superior {
   padding-left: 0px;
   display: table;
   margin-bottom: 20px;
+  opacity: 0.5;
+}
+
+.menu2 ul li:hover {
+  opacity: 1;
 }
 
 .menu2 ul li a {
